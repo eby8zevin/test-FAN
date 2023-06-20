@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662938545678",
+    "firebase_url": "https://fanintek-bekasi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fanintek-bekasi",
+    "storage_bucket": "fanintek-bekasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662938545678:android:9a8614f8433e227d4f165f",
+        "android_client_info": {
+          "package_name": "com.ahmadabuhasan.fan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662938545678-bkf8c5qfecbctfrv2a7pm6tf3eq1nmo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx__ht_mnqNyJhm54C9fCWO9JJcf3Ts0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662938545678-bkf8c5qfecbctfrv2a7pm6tf3eq1nmo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
